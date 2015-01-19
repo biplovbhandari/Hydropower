@@ -1,0 +1,354 @@
+{
+	"type": "FeatureCollection",
+	"crs": {
+		"type": "name",
+		"properties": {
+			"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+		}
+	},
+	"features": [{
+		"type": "Feature",
+		"properties": {
+			"sn": 1.0,
+			"start_lat": 29.783333,
+			"start_lng": 80.813611,
+			"Project": "Chameliya (Chhetigad)",
+			"Capacity(in MW)": 85.0,
+			"River": "Chameliya",
+			"License Number": 296.0,
+			"Issue_Date": "2064\/09\/09",
+			"Validity": "2071\/05\/11",
+			"Promoter": "West Star Hydropower Co. Pvt. Ltd.,",
+			"Address": "531Pandol Marg Lajimpat, Kathmandu, Ph. 01-4419843, 9851034077",
+			"VDC/Disctrict": "(Darchula)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [80.81361111,
+			29.78333333]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 2.0,
+			"start_lat": 27.258333,
+			"start_lng": 87.655556,
+			"Project": "Lower Tamor",
+			"Capacity(in MW)": 49.5,
+			"River": "Tamor",
+			"License Number": 409.0,
+			"Issue_Date": "2065\/06\/15",
+			"Validity": "2070\/06\/14",
+			"Promoter": "Shiva Gauri Hydropower Pvt. Ltd.",
+			"Address": "P.O.Box 8975 EPC 1350, Baphal Kathmandu, Phone 01-4239176",
+			"VDC/Disctrict": "Ambarpur (Panchthar) Dokhu,Nankholyang,Nidhuradin,Phulbari (Taplejung)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [87.65555556,
+			27.25833333]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 3.0,
+			"start_lat": 29.5,
+			"start_lng": 81.083333,
+			"Project": "Seti Nadi-3 HPP",
+			"Capacity(in MW)": 80.0,
+			"River": "seti",
+			"License Number": 547.0,
+			"Issue_Date": "2067\/01\/15",
+			"Validity": "2069\/01\/14",
+			"Promoter": "Avanti Feeds Ltd",
+			"Address": "G-2, Concorde Apartments, 6-3-658, Somajiguda, Hyderabad,500082, India, Fax\/Tel: +91-40-23311604",
+			"VDC/Disctrict": "Rithapata,Subeda,Kadel,Hemantabada,Luyanta,Malumela (Bajhang)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [81.08333333,
+			29.5]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 4.0,
+			"start_lat": 28.05,
+			"start_lng": 86.145556,
+			"Project": "Upper Lapche Khola",
+			"Capacity(in MW)": 99.0,
+			"River": "Lapche",
+			"License Number": 557.0,
+			"Issue_Date": "2067\/02\/10",
+			"Validity": "2072\/02\/09",
+			"Promoter": "Energy Venture Pvt. Ltd.",
+			"Address": "New Baneswor Kathmandu, GPO Box: 6870, Phone 9851025737, 9841250988",
+			"VDC/Disctrict": "Lamabagar (Dolakha)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [86.14555556,
+			28.05]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 5.0,
+			"start_lat": 27.963333,
+			"start_lng": 85.175,
+			"Project": "Middle Trishuli Ganga nadi",
+			"Capacity(in MW)": 65.0,
+			"River": "Trishuli",
+			"License Number": 578.0,
+			"Issue_Date": "2067\/05\/07",
+			"Validity": "2071\/05\/06",
+			"Promoter": "Perfect Energy Developmnet Pvt. Ltd, KTM,",
+			"Address": "POB 5342, PH 4468221,9841264685",
+			"VDC/Disctrict": "(Nuwakot)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.175,
+			27.96333333]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 6.0,
+			"start_lat": 27.758333,
+			"start_lng": 86.183333,
+			"Project": "Tamakoshi-V",
+			"Capacity(in MW)": 87.0,
+			"River": "TamaKoshi",
+			"License Number": 579.0,
+			"Issue_Date": "2067\/05\/18",
+			"Validity": "2071\/05\/17",
+			"Promoter": "Nepal Electricity Authority",
+			"Address": null,
+			"VDC/Disctrict": "(Dolakha)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [86.18333333,
+			27.75833333]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 7.0,
+			"start_lat": 29.75,
+			"start_lng": 81.25,
+			"Project": "Bajhang Upper Seti Hydropower Project",
+			"Capacity(in MW)": 80.0,
+			"River": "Seti",
+			"License Number": 585.0,
+			"Issue_Date": "2067\/11\/16",
+			"Validity": "2069\/11\/15",
+			"Promoter": "Trade Link Global Pvt Ltd",
+			"Address": "PO Box: 5771, Kathmandu, Tel: 4244408, Fax: 4225479",
+			"VDC/Disctrict": "Kanda (Bajhang)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [81.25,
+			29.75]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 8.0,
+			"start_lat": 28.986111,
+			"start_lng": 82.541667,
+			"Project": "Lower Bheri Hydropower Projec t",
+			"Capacity(in MW)": 60.0,
+			"River": "Bheri",
+			"License Number": 626.0,
+			"Issue_Date": "2069\/03\/22",
+			"Validity": "2071\/03\/21",
+			"Promoter": "Multi Star Energy Pvt Ltd",
+			"Address": "Naya Baneswar, Kathmandu, Tel: 016203943",
+			"VDC/Disctrict": "Kalika,Narku (Dolpa)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [82.54166667,
+			28.98611111]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 9.0,
+			"start_lat": 27.759167,
+			"start_lng": 85.863611,
+			"Project": "Bhotekoshi 5",
+			"Capacity(in MW)": 60.0,
+			"River": "Bhotekoshi",
+			"License Number": 641.0,
+			"Issue_Date": "2069\/07\/03",
+			"Validity": "2071\/07\/02",
+			"Promoter": "Kalika Energy Pvt. Ltd.",
+			"Address": "Bharatpur 10, Chitawan, 056-522440, 056-522556",
+			"VDC/Disctrict": "Barhabise,Gati,Tekanpur,Maneswor,Ramche,Mankha (Sindhupalchok)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.86361111,
+			27.75916667]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 10.0,
+			"start_lat": 27.551944,
+			"start_lng": 86.157222,
+			"Project": "Khimti II",
+			"Capacity(in MW)": 27.2,
+			"River": "Khimti",
+			"License Number": 643.0,
+			"Issue_Date": "2069\/07\/15",
+			"Validity": "2071\/07\/14",
+			"Promoter": "Peoples Hydro sahakari Sastha Limited",
+			"Address": "Shanti Nagar -34, Kathamandu, P.O.Box 10242, Phone 01-4781891, Fax 01-4781891",
+			"VDC/Disctrict": "Chyama (Dolakha) Betali,Rasanalu (Ramechhap)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [86.15722222,
+			27.55194444]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 11.0,
+			"start_lat": 27.486111,
+			"start_lng": 86.3,
+			"Project": "Likhu Khola HPP",
+			"Capacity(in MW)": 30.0,
+			"River": "Likhu",
+			"License Number": 663.0,
+			"Issue_Date": "2070\/03\/07",
+			"Validity": "2072\/03\/06",
+			"Promoter": "P K Hydropower Pvt. Ltd.",
+			"Address": "P.O.Box. 5947, Kathmandu, 9741048107",
+			"VDC/Disctrict": "Rawadolu,Khijichandeshwari (Okhaldhunga) Pritee,Kubukasthali (Ramechhap) Goli (Solukhumbu)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [86.3,
+			27.48611111]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 12.0,
+			"start_lat": 28.458333,
+			"start_lng": 83.345556,
+			"Project": "Upper Myagdi-I HEP",
+			"Capacity(in MW)": 80.0,
+			"River": "Myagdi",
+			"License Number": 671.0,
+			"Issue_Date": "2070\/08\/13",
+			"Validity": "2072\/08\/12",
+			"Promoter": "Himalayan Infrastructure Fund Limited",
+			"Address": "Heritage Plaza, Kathmadu. Phone : 4169088, 4169089",
+			"VDC/Disctrict": "Mudi,Muna,Takam,Marang,Darwang (Myagdi)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [83.34555556,
+			28.45833333]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 13.0,
+			"start_lat": 28.116667,
+			"start_lng": 85.0,
+			"Project": "Upper Ankhu Khola",
+			"Capacity(in MW)": 35.0,
+			"River": "Aankhu",
+			"License Number": 672.0,
+			"Issue_Date": "2070\/08\/14",
+			"Validity": "2072\/08\/13",
+			"Promoter": "Dhading Ankhu Khola Hydro Pvt. Ltd.",
+			"Address": "Sumargi B. Complex, Babarmahal-11, Kathmandu",
+			"VDC/Disctrict": "Jharlang,Lapa,Sirtung (Dhading)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.0,
+			28.11666667]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 14.0,
+			"start_lat": 28.434722,
+			"start_lng": 83.600833,
+			"Project": "Tiplyang Kaligandaki HEP",
+			"Capacity(in MW)": 95.0,
+			"River": "Kaligandaki",
+			"License Number": 677.0,
+			"Issue_Date": "2070\/12\/20",
+			"Validity": "2072\/12\/19",
+			"Promoter": "Himalayan Infrastructure Fund Limited",
+			"Address": "Heritage Plaza, Kathmandu, Phone No. 4169088, 4169089",
+			"VDC/Disctrict": "Tatopani,Dowa,Histan Mandali,Shikha (Myagdi)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [83.60083333,
+			28.43472222]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 15.0,
+			"start_lat": 28.538056,
+			"start_lng": 83.666667,
+			"Project": "Nilgiri Khola-II cascade Project",
+			"Capacity(in MW)": 62.0,
+			"River": "Nilgiri",
+			"License Number": 678.0,
+			"Issue_Date": "2071\/01\/05",
+			"Validity": "2073\/01\/04",
+			"Promoter": "Mountain Energy Nepal Pvt Ltd",
+			"Address": "Panipokhri, Kathmandu, GPO Box: 21729, Tel: 4437705",
+			"VDC/Disctrict": "Narchyang (Myagdi)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [83.66666667,
+			28.53805556]
+		}
+	}]
+}

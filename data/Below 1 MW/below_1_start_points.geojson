@@ -1,0 +1,3344 @@
+{
+	"type": "FeatureCollection",
+	"crs": {
+		"type": "name",
+		"properties": {
+			"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+		}
+	},
+	"features": [{
+		"type": "Feature",
+		"properties": {
+			"sn": 1.0,
+			"start_lat": 28.015833,
+			"start_lng": 84.976389,
+			"Project": "Kintang Khola",
+			"Capacity(in MW)": 0.99,
+			"River": "Kintang",
+			"License Number": null,
+			"Issue_Date": "0000-00-00",
+			"Validity": "0000-00-00",
+			"Promoter": "Amit Adhikari",
+			"Address": "Jawalakhel Lalitpur POB: 8975, 015500915",
+			"VDC/Disctrict": "Marpak,Satyadevi (Dhading)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [84.97638889,
+			28.01583333]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 2.0,
+			"start_lat": 28.306111,
+			"start_lng": 83.763056,
+			"Project": "Bhurungdi Khola",
+			"Capacity(in MW)": 0.9,
+			"River": "Bhurundi",
+			"License Number": null,
+			"Issue_Date": "57781",
+			"Validity": "0000-00-00",
+			"Promoter": "Bindhyabasini Hydropower Development p. Ltd",
+			"Address": null,
+			"VDC/Disctrict": "(Kaski)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [83.76305556,
+			28.30611111]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 3.0,
+			"start_lat": 27.833333,
+			"start_lng": 84.458333,
+			"Project": "Labdi Khola Small",
+			"Capacity(in MW)": 0.925,
+			"River": "Labdi",
+			"License Number": null,
+			"Issue_Date": "58079",
+			"Validity": null,
+			"Promoter": "Technicon Nepal Pvt.Ltd.",
+			"Address": null,
+			"VDC/Disctrict": "(Tanahu)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [84.45833333,
+			27.83333333]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 4.0,
+			"start_lat": 27.683333,
+			"start_lng": 83.938889,
+			"Project": "Arung Khola",
+			"Capacity(in MW)": 1.0,
+			"River": "Arung",
+			"License Number": null,
+			"Issue_Date": "58215",
+			"Validity": "0000-00-00",
+			"Promoter": "Shakti Hydropower Pvt. Ltd",
+			"Address": "P.O. Box : 5905, KTM Phone No. 9841954054",
+			"VDC/Disctrict": "(Nawalparasi)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [83.93888889,
+			27.68333333]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 5.0,
+			"start_lat": 27.695833,
+			"start_lng": 85.150278,
+			"Project": "Naubise Khola",
+			"Capacity(in MW)": 0.67,
+			"River": "Naubise",
+			"License Number": null,
+			"Issue_Date": "58384",
+			"Validity": null,
+			"Promoter": "ShreeRup Hydropower Pvt. Ltd",
+			"Address": null,
+			"VDC/Disctrict": "(Dhading)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.15027778,
+			27.69583333]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 6.0,
+			"start_lat": 27.816944,
+			"start_lng": 84.5225,
+			"Project": "Seti Khola",
+			"Capacity(in MW)": 0.488,
+			"River": "Seti",
+			"License Number": null,
+			"Issue_Date": "58407",
+			"Validity": null,
+			"Promoter": "ShreeRup Hydropower Pvt. Ltd",
+			"Address": null,
+			"VDC/Disctrict": "(Chitwan)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [84.5225,
+			27.81694444]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 7.0,
+			"start_lat": 27.475,
+			"start_lng": 85.258333,
+			"Project": "Khani Khola",
+			"Capacity(in MW)": 0.7,
+			"River": "Khani",
+			"License Number": null,
+			"Issue_Date": "58422",
+			"Validity": null,
+			"Promoter": "Swet Bhairab Pvt Ltd",
+			"Address": null,
+			"VDC/Disctrict": "(Lalitpur)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.25833333,
+			27.475]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 8.0,
+			"start_lat": 27.61,
+			"start_lng": 86.079444,
+			"Project": "Gopi Khola Small",
+			"Capacity(in MW)": 0.996,
+			"River": "Gopi",
+			"License Number": null,
+			"Issue_Date": "58466",
+			"Validity": null,
+			"Promoter": "Gopi Binayak Hydropower Project Pvt. Ltd",
+			"Address": null,
+			"VDC/Disctrict": "(Dolakha)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [86.07944444,
+			27.61]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 9.0,
+			"start_lat": 27.747222,
+			"start_lng": 85.483333,
+			"Project": "Sali Nadi",
+			"Capacity(in MW)": 0.4,
+			"River": "Sali Nadi",
+			"License Number": null,
+			"Issue_Date": "58476",
+			"Validity": null,
+			"Promoter": "Hari Bairagi Dahal\/Lakpa Gelu Sherpa",
+			"Address": null,
+			"VDC/Disctrict": "(Kathmandu)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.48333333,
+			27.74722222]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 10.0,
+			"start_lat": 28.358056,
+			"start_lng": 84.405556,
+			"Project": "Tatopani Mini HP",
+			"Capacity(in MW)": 0.21,
+			"River": null,
+			"License Number": null,
+			"Issue_Date": "58480",
+			"Validity": "0000-00-00",
+			"Promoter": "Syange Bidyut Co. Ltd.,",
+			"Address": "P.O.Box: 5926, KTM, Ph: 4410603, Fax: 01-4427013",
+			"VDC/Disctrict": "Ghermu (Lamjung)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [84.40555556,
+			28.35805556]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 11.0,
+			"start_lat": 27.870833,
+			"start_lng": 85.9375,
+			"Project": "Upper Chaku Khola",
+			"Capacity(in MW)": 0.099,
+			"River": "Chaku",
+			"License Number": null,
+			"Issue_Date": "58491",
+			"Validity": null,
+			"Promoter": "Bharat Prasad Parajuli",
+			"Address": null,
+			"VDC/Disctrict": "(Sindhupalchok)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.9375,
+			27.87083333]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 12.0,
+			"start_lat": 27.608333,
+			"start_lng": 86.277778,
+			"Project": "Yelun Khola",
+			"Capacity(in MW)": 0.14,
+			"River": "Yelun",
+			"License Number": null,
+			"Issue_Date": "58506",
+			"Validity": null,
+			"Promoter": "Hem Raj Gubhaju",
+			"Address": "Chuchure V.D.C-6, Ramechhap",
+			"VDC/Disctrict": "(Dolakha)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [86.27777778,
+			27.60833333]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 13.0,
+			"start_lat": 28.361111,
+			"start_lng": 84.010278,
+			"Project": "Sardi Khola-1",
+			"Capacity(in MW)": 0.8,
+			"River": "Sardi",
+			"License Number": null,
+			"Issue_Date": "58518",
+			"Validity": null,
+			"Promoter": "Puspa raj paudyal",
+			"Address": null,
+			"VDC/Disctrict": "(Kaski)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [84.01027778,
+			28.36111111]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 14.0,
+			"start_lat": 27.896389,
+			"start_lng": 83.845833,
+			"Project": "Jyagdi Khola",
+			"Capacity(in MW)": 0.84,
+			"River": "Jyagdi",
+			"License Number": null,
+			"Issue_Date": "58585",
+			"Validity": null,
+			"Promoter": "Biutwal Power Company",
+			"Address": null,
+			"VDC/Disctrict": "(Syangja)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [83.84583333,
+			27.89638889]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 15.0,
+			"start_lat": 28.391667,
+			"start_lng": 83.591667,
+			"Project": "Aul Khola",
+			"Capacity(in MW)": 0.999,
+			"River": "Aul",
+			"License Number": null,
+			"Issue_Date": "58618",
+			"Validity": null,
+			"Promoter": "Bidya Laxmi Lamichhane",
+			"Address": null,
+			"VDC/Disctrict": "(Myagdi)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [83.59166667,
+			28.39166667]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 16.0,
+			"start_lat": 28.363889,
+			"start_lng": 83.883333,
+			"Project": "Saiti Khola Small",
+			"Capacity(in MW)": 0.65,
+			"River": "Saiti",
+			"License Number": null,
+			"Issue_Date": "58640",
+			"Validity": null,
+			"Promoter": "Kamla Gurung",
+			"Address": null,
+			"VDC/Disctrict": "(Kaski)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [83.88333333,
+			28.36388889]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 17.0,
+			"start_lat": 27.166667,
+			"start_lng": 87.348889,
+			"Project": "Leguwa Khola",
+			"Capacity(in MW)": 0.215,
+			"River": "Leguwa",
+			"License Number": null,
+			"Issue_Date": "58793",
+			"Validity": "0000-00-00",
+			"Promoter": "Elite Consult P Ltd",
+			"Address": null,
+			"VDC/Disctrict": "Marek Kataharl (Dhankuta)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [87.34888889,
+			27.16666667]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 18.0,
+			"start_lat": 27.561389,
+			"start_lng": 85.019444,
+			"Project": "Manhari Khola",
+			"Capacity(in MW)": 0.46,
+			"River": "Manhari\/Chyau",
+			"License Number": null,
+			"Issue_Date": "58869",
+			"Validity": "0000-00-00",
+			"Promoter": "Makwanpur Hydropower Development Company, Hetauda",
+			"Address": null,
+			"VDC/Disctrict": "(Makawanpur)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.01944444,
+			27.56138889]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 19.0,
+			"start_lat": 27.602222,
+			"start_lng": 85.189722,
+			"Project": "Chakhel Khola Small",
+			"Capacity(in MW)": 0.225,
+			"River": "Chakhel",
+			"License Number": null,
+			"Issue_Date": "58903",
+			"Validity": null,
+			"Promoter": "Aryan Power co. Ltd.",
+			"Address": null,
+			"VDC/Disctrict": "(Makawanpur)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.18972222,
+			27.60222222]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 20.0,
+			"start_lat": 27.5,
+			"start_lng": 85.5,
+			"Project": "Upper Ladku",
+			"Capacity(in MW)": 0.59,
+			"River": "Ladku",
+			"License Number": null,
+			"Issue_Date": "59233",
+			"Validity": null,
+			"Promoter": "Universal Power",
+			"Address": null,
+			"VDC/Disctrict": "(Kabhrepalanchok)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.5,
+			27.5]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 21.0,
+			"start_lat": 28.242222,
+			"start_lng": 84.379722,
+			"Project": "Bhachok",
+			"Capacity(in MW)": 0.37,
+			"River": "Bhachok",
+			"License Number": null,
+			"Issue_Date": "59266",
+			"Validity": null,
+			"Promoter": "Annapurna Renewable Energy P. Ltd",
+			"Address": null,
+			"VDC/Disctrict": "(Lamjung)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [84.37972222,
+			28.24222222]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 22.0,
+			"start_lat": 28.208333,
+			"start_lng": 84.15,
+			"Project": "Wardi Khola",
+			"Capacity(in MW)": 0.55,
+			"River": "Wardi",
+			"License Number": null,
+			"Issue_Date": "59410",
+			"Validity": null,
+			"Promoter": "Budhi Sagar Sapkota",
+			"Address": null,
+			"VDC/Disctrict": "(Kaski)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [84.15,
+			28.20833333]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 23.0,
+			"start_lat": 27.801111,
+			"start_lng": 84.951111,
+			"Project": "Belkhu Khola",
+			"Capacity(in MW)": 0.33,
+			"River": "Belkhu",
+			"License Number": null,
+			"Issue_Date": "59286",
+			"Validity": null,
+			"Promoter": "Multipupose Food Industry Co. P. Ltd",
+			"Address": "Belkhu Bazaar Dhading Ph: 010-529210",
+			"VDC/Disctrict": "(Dhading)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [84.95111111,
+			27.80111111]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 24.0,
+			"start_lat": 27.7,
+			"start_lng": 85.858333,
+			"Project": "Tauthali Khola",
+			"Capacity(in MW)": 0.95,
+			"River": "Tauthali",
+			"License Number": null,
+			"Issue_Date": "59549",
+			"Validity": null,
+			"Promoter": "Shakti Urja Bikash Co. P. Ltd",
+			"Address": "Ph: 4475025, Mobil: 9841343532",
+			"VDC/Disctrict": "(Sindhupalchok)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.85833333,
+			27.7]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 25.0,
+			"start_lat": 28.29,
+			"start_lng": 84.264167,
+			"Project": "Painyu Khola",
+			"Capacity(in MW)": 0.15,
+			"River": "Painyu",
+			"License Number": null,
+			"Issue_Date": "59675",
+			"Validity": null,
+			"Promoter": "Yam Prasad Gurung",
+			"Address": "Ghanapohara 5, Lamjung, Ph: 4441576",
+			"VDC/Disctrict": "(Lamjung)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [84.26416667,
+			28.29]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 26.0,
+			"start_lat": 28.086111,
+			"start_lng": 84.428333,
+			"Project": "Paundi Khola",
+			"Capacity(in MW)": 0.251,
+			"River": "Paundi",
+			"License Number": null,
+			"Issue_Date": "59718",
+			"Validity": null,
+			"Promoter": "Govinda Raj Mishra",
+			"Address": "Sundar Bazaar V.D.C. Ward no: 9",
+			"VDC/Disctrict": "(Lamjung)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [84.42833333,
+			28.08611111]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 27.0,
+			"start_lat": 27.852778,
+			"start_lng": 85.891667,
+			"Project": "Bulkute Khola SHP",
+			"Capacity(in MW)": 0.5,
+			"River": "Bulkute",
+			"License Number": null,
+			"Issue_Date": "59830",
+			"Validity": null,
+			"Promoter": "Ghansyam Raut",
+			"Address": "Gairigaon Ph: 4219114",
+			"VDC/Disctrict": "(Sindhupalchok)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.89166667,
+			27.85277778]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 28.0,
+			"start_lat": 28.4,
+			"start_lng": 83.35,
+			"Project": "Rithum Khola",
+			"Capacity(in MW)": 0.99,
+			"River": "Rithum",
+			"License Number": null,
+			"Issue_Date": "59853",
+			"Validity": null,
+			"Promoter": "Binod Mani Lamichhane",
+			"Address": null,
+			"VDC/Disctrict": "(Myagdi)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [83.35,
+			28.4]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 29.0,
+			"start_lat": 29.0,
+			"start_lng": 80.7375,
+			"Project": "Gadsera",
+			"Capacity(in MW)": 0.995,
+			"River": "Gadsera",
+			"License Number": null,
+			"Issue_Date": "59955",
+			"Validity": null,
+			"Promoter": "NWB Power Developers INC P. Ltd.",
+			"Address": "P.O. Box: 24266, Ph: 5525058, 9841523850",
+			"VDC/Disctrict": "(Doti)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [80.7375,
+			29.0]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 30.0,
+			"start_lat": 27.154167,
+			"start_lng": 87.781944,
+			"Project": "Middle Pheme",
+			"Capacity(in MW)": 0.15,
+			"River": "Pheme",
+			"License Number": null,
+			"Issue_Date": "59955",
+			"Validity": null,
+			"Promoter": "B. K. Power Developer",
+			"Address": "Baneshwor Ph: 4498116, 9841401196",
+			"VDC/Disctrict": "(Panchthar)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [87.78194444,
+			27.15416667]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 31.0,
+			"start_lat": 28.25,
+			"start_lng": 83.591389,
+			"Project": "Kathe Khola",
+			"Capacity(in MW)": 0.99,
+			"River": "Kathe",
+			"License Number": null,
+			"Issue_Date": "60005",
+			"Validity": null,
+			"Promoter": "Global Public Power Co. P. Ltd.",
+			"Address": "House No 93\/125, Ktm-14, Ph: 9841296794",
+			"VDC/Disctrict": "(Baglung)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [83.59138889,
+			28.25]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 32.0,
+			"start_lat": 28.3,
+			"start_lng": 83.683333,
+			"Project": "Super Pati Khola",
+			"Capacity(in MW)": 0.57,
+			"River": "Pati",
+			"License Number": null,
+			"Issue_Date": "60005",
+			"Validity": null,
+			"Promoter": "Hima Timsina",
+			"Address": "Hemja VDC-4, Kaski",
+			"VDC/Disctrict": "(Parbat)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [83.68333333,
+			28.3]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 33.0,
+			"start_lat": 27.853056,
+			"start_lng": 85.716111,
+			"Project": "Selang SHP",
+			"Capacity(in MW)": 0.99,
+			"River": "Selang",
+			"License Number": null,
+			"Issue_Date": "60015",
+			"Validity": "0000-00-00",
+			"Promoter": "M\/S Rising Hydropower Pvt. Ltd.",
+			"Address": "Kamaladi, Kathmandu, Tel: 01-4410160",
+			"VDC/Disctrict": "Selang (Sindhupalchok)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.71611111,
+			27.85305556]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 34.0,
+			"start_lat": 27.851389,
+			"start_lng": 85.9175,
+			"Project": "Chhyadi Khola",
+			"Capacity(in MW)": 0.275,
+			"River": "Chhyadi",
+			"License Number": null,
+			"Issue_Date": "60020",
+			"Validity": null,
+			"Promoter": "Nima Gyalzen Tamang",
+			"Address": "Marming VDC-5",
+			"VDC/Disctrict": "(Sindhupalchok)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.9175,
+			27.85138889]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 35.0,
+			"start_lat": 27.058611,
+			"start_lng": 87.947778,
+			"Project": "Upper Mai Khola",
+			"Capacity(in MW)": 0.995,
+			"River": "Mai",
+			"License Number": null,
+			"Issue_Date": "60099",
+			"Validity": null,
+			"Promoter": "Upper Mai Hydro Development P. Ltd",
+			"Address": "Koteshwor, Ktm. Ph: 2052566, 9851044121",
+			"VDC/Disctrict": "(Ilam)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [87.94777778,
+			27.05861111]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 36.0,
+			"start_lat": 27.433333,
+			"start_lng": 85.4,
+			"Project": "Middle Durlung",
+			"Capacity(in MW)": 0.982,
+			"River": "Durlung",
+			"License Number": null,
+			"Issue_Date": "60101",
+			"Validity": null,
+			"Promoter": "People, Energy & Environment Development Association, PEEDA",
+			"Address": "Ph: 4264304, P.O. Box: 6756",
+			"VDC/Disctrict": "(Lalitpur)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.4,
+			27.43333333]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 37.0,
+			"start_lat": 27.802778,
+			"start_lng": 85.775,
+			"Project": "Bokse Khola",
+			"Capacity(in MW)": 0.298,
+			"River": "Bokse",
+			"License Number": null,
+			"Issue_Date": "60208",
+			"Validity": null,
+			"Promoter": "Direndra Ratna Shakya",
+			"Address": null,
+			"VDC/Disctrict": "(Sindhupalchok)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.775,
+			27.80277778]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 38.0,
+			"start_lat": 27.666667,
+			"start_lng": 85.733611,
+			"Project": "Bhaise Khola",
+			"Capacity(in MW)": 0.31,
+			"River": "Bhaise",
+			"License Number": null,
+			"Issue_Date": "60226",
+			"Validity": null,
+			"Promoter": "Bhaise Khola Small HEP P. Ltd.",
+			"Address": "Saping VDC-4, Kavre",
+			"VDC/Disctrict": "(Kabhrepalanchok)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.73361111,
+			27.66666667]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 39.0,
+			"start_lat": 27.954722,
+			"start_lng": 85.315278,
+			"Project": "Dorkhu Khola",
+			"Capacity(in MW)": 0.99,
+			"River": "Dorkhu",
+			"License Number": null,
+			"Issue_Date": "60257",
+			"Validity": null,
+			"Promoter": "Aklekunda Hydropower Co. P. Ltd.",
+			"Address": "Ph: 4880041, 4216573 G. P.O. Box: 8004",
+			"VDC/Disctrict": "(Nuwakot)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.31527778,
+			27.95472222]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 40.0,
+			"start_lat": 27.895278,
+			"start_lng": 85.522222,
+			"Project": "Gohare Khola",
+			"Capacity(in MW)": 0.95,
+			"River": "Gohare",
+			"License Number": null,
+			"Issue_Date": "60258",
+			"Validity": null,
+			"Promoter": "Jugal Hydropower P. Ltd.",
+			"Address": "P.O.Box: 12343, Ph: 4497151, 9841831103",
+			"VDC/Disctrict": "(Sindhupalchok)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.52222222,
+			27.89527778]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 41.0,
+			"start_lat": 27.779722,
+			"start_lng": 83.540278,
+			"Project": "Super Tinau Khola",
+			"Capacity(in MW)": 0.84,
+			"River": "Tinau",
+			"License Number": null,
+			"Issue_Date": "60258",
+			"Validity": null,
+			"Promoter": "Bandana Malla",
+			"Address": "Banasthali, KTM, Ph: 9841340297",
+			"VDC/Disctrict": "(Palpa)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [83.54027778,
+			27.77972222]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 42.0,
+			"start_lat": 27.592778,
+			"start_lng": 85.128056,
+			"Project": "Thado Khola",
+			"Capacity(in MW)": 0.89,
+			"River": "Thado",
+			"License Number": null,
+			"Issue_Date": "60259",
+			"Validity": null,
+			"Promoter": "Dipak Roka",
+			"Address": "Hetauda Municipality-1, Ph: 9851105748, 5203389",
+			"VDC/Disctrict": "(Makawanpur)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.12805556,
+			27.59277778]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 43.0,
+			"start_lat": 27.7075,
+			"start_lng": 85.135278,
+			"Project": "Naubise Khola A",
+			"Capacity(in MW)": 0.5,
+			"River": "Naubise",
+			"License Number": null,
+			"Issue_Date": "60283",
+			"Validity": null,
+			"Promoter": "Yubraj Basnet & Manamathi Devi Basnet",
+			"Address": null,
+			"VDC/Disctrict": "(Dhading)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.13527778,
+			27.7075]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 44.0,
+			"start_lat": 29.277222,
+			"start_lng": 80.655,
+			"Project": "Ruwa Khola SHP",
+			"Capacity(in MW)": 0.998,
+			"River": "Ruwa",
+			"License Number": null,
+			"Issue_Date": "60283",
+			"Validity": null,
+			"Promoter": "Tripura Energy Nepal P. Ltd.",
+			"Address": null,
+			"VDC/Disctrict": "(Dadeldhura)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [80.655,
+			29.27722222]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 45.0,
+			"start_lat": 27.625,
+			"start_lng": 85.094167,
+			"Project": "Sankhamul Khola (Daman) SHP",
+			"Capacity(in MW)": 0.65,
+			"River": "Sankhamul",
+			"License Number": null,
+			"Issue_Date": "60303",
+			"Validity": null,
+			"Promoter": "Natgeo Consultancy P. Ltd",
+			"Address": null,
+			"VDC/Disctrict": "(Makawanpur)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.09416667,
+			27.625]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 46.0,
+			"start_lat": 27.691389,
+			"start_lng": 86.354167,
+			"Project": "Ghwang Khola",
+			"Capacity(in MW)": 1.0,
+			"River": "Ghwang",
+			"License Number": null,
+			"Issue_Date": "60322",
+			"Validity": null,
+			"Promoter": "Nilaganga Hydropower Co. P. Ltd.",
+			"Address": "KMC-7, KTM, Ph: 01-4492449",
+			"VDC/Disctrict": "(Dolakha)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [86.35416667,
+			27.69138889]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 47.0,
+			"start_lat": 27.039444,
+			"start_lng": 86.746944,
+			"Project": "Tuwa Khola",
+			"Capacity(in MW)": 0.84,
+			"River": "Tuwa",
+			"License Number": null,
+			"Issue_Date": "60329",
+			"Validity": null,
+			"Promoter": "Yogendra Rai, Usha Thapa",
+			"Address": "Laphyang-3, Khotang Ph: 9851012604 & Bhimeshwor-10, Dolakha",
+			"VDC/Disctrict": "(Khotang)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [86.74694444,
+			27.03944444]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 48.0,
+			"start_lat": 27.6925,
+			"start_lng": 86.35,
+			"Project": "Upper Khimti Khola-1",
+			"Capacity(in MW)": 1.0,
+			"River": "Khimti",
+			"License Number": null,
+			"Issue_Date": "60329",
+			"Validity": null,
+			"Promoter": "Global Hydro Power Associated Pvt. Ltd",
+			"Address": "P.O. Box: 8975 EPC 5160 Ph: 01-4442409, 4472161",
+			"VDC/Disctrict": "(Dolakha)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [86.35,
+			27.6925]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 49.0,
+			"start_lat": 27.76,
+			"start_lng": 84.683333,
+			"Project": "Hugdi Khola SHP",
+			"Capacity(in MW)": 0.5,
+			"River": "Hugdi",
+			"License Number": null,
+			"Issue_Date": "60344",
+			"Validity": null,
+			"Promoter": "Prakash Tiwari",
+			"Address": "Khoplang VDC-2, Gorakha Ph: 01-4221198, 9851014670",
+			"VDC/Disctrict": "(Dhading)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [84.68333333,
+			27.76]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 50.0,
+			"start_lat": 27.725278,
+			"start_lng": 84.943333,
+			"Project": "Upper Belkhu SHP",
+			"Capacity(in MW)": 0.996,
+			"River": "Belkhu",
+			"License Number": null,
+			"Issue_Date": "60344",
+			"Validity": "0000-00-00",
+			"Promoter": "Dariyal Small Hydropower Co. P. Ltd",
+			"Address": "Battisputali-9 KTM. Ph: 01-4488643, 9841303859",
+			"VDC/Disctrict": "(Dhading)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [84.94333333,
+			27.72527778]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 51.0,
+			"start_lat": 27.173333,
+			"start_lng": 86.822778,
+			"Project": "Miya Khola",
+			"Capacity(in MW)": 0.98,
+			"River": "Miya",
+			"License Number": null,
+			"Issue_Date": "60364",
+			"Validity": null,
+			"Promoter": "Arjun Rai",
+			"Address": "Khalle Ward No.6, Khotang, Mobile No. 9851075385",
+			"VDC/Disctrict": "(Khotang)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [86.82277778,
+			27.17333333]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 52.0,
+			"start_lat": 28.423056,
+			"start_lng": 83.693889,
+			"Project": "Kholam Kholam Khola",
+			"Capacity(in MW)": 0.84,
+			"River": "Kholamm",
+			"License Number": null,
+			"Issue_Date": "60365",
+			"Validity": null,
+			"Promoter": "Ramaljit Pun\/Bagabir Paijar",
+			"Address": "P.O.Box: 7728, Ph: 01-4436889, 9851014953",
+			"VDC/Disctrict": "(Myagdi)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [83.69388889,
+			28.42305556]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 53.0,
+			"start_lat": 27.238056,
+			"start_lng": 85.171389,
+			"Project": "Bakaiya Nadi SHP",
+			"Capacity(in MW)": 0.998,
+			"River": "Bakaiya",
+			"License Number": null,
+			"Issue_Date": "60377",
+			"Validity": null,
+			"Promoter": "Sudarshan Kumar Lamichhane",
+			"Address": "Nijgadh VDC-3, Bara",
+			"VDC/Disctrict": "(Makawanpur)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.17138889,
+			27.23805556]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 54.0,
+			"start_lat": 29.674444,
+			"start_lng": 80.674167,
+			"Project": "Gandigad SHP",
+			"Capacity(in MW)": 1.0,
+			"River": "Gandigad",
+			"License Number": null,
+			"Issue_Date": "60377",
+			"Validity": "0000-00-00",
+			"Promoter": "Uttar Bahadur Air (Kanchan Urja Pvt. Ltd.",
+			"Address": "KMC-3, Khursanitar, Ph: 9841064726",
+			"VDC/Disctrict": "(Baitadi)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [80.67416667,
+			29.67444444]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 55.0,
+			"start_lat": 27.974722,
+			"start_lng": 85.433333,
+			"Project": "Ghagar Khola SHP",
+			"Capacity(in MW)": 0.56,
+			"River": "Ghagar",
+			"License Number": null,
+			"Issue_Date": "60377",
+			"Validity": null,
+			"Promoter": "Nepal Power Co. P. Ltd",
+			"Address": "Adwait Marg, Bag Bazar, KTM Ph: 4243962, Fax: 4269566",
+			"VDC/Disctrict": "(Nuwakot)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.43333333,
+			27.97472222]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 56.0,
+			"start_lat": 29.471944,
+			"start_lng": 81.125,
+			"Project": "Jadari Khola SHP",
+			"Capacity(in MW)": 0.998,
+			"River": "Jadari",
+			"License Number": null,
+			"Issue_Date": "60379",
+			"Validity": null,
+			"Promoter": "Amrita Singha",
+			"Address": "Luyata VDC-8, Bajhag, Ph: 092-421136, 01-2002515",
+			"VDC/Disctrict": "(Bajhang)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [81.125,
+			29.47194444]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 57.0,
+			"start_lat": 29.433333,
+			"start_lng": 81.15,
+			"Project": "Salubyan Khola SHP",
+			"Capacity(in MW)": 0.3,
+			"River": "Salubyan",
+			"License Number": null,
+			"Issue_Date": "60380",
+			"Validity": null,
+			"Promoter": "Suresh Prasad Khatri",
+			"Address": "Majhigaun VDC-7, Bajhang",
+			"VDC/Disctrict": "(Bajhang)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [81.15,
+			29.43333333]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 58.0,
+			"start_lat": 27.990278,
+			"start_lng": 85.113889,
+			"Project": "Salankhu-Balchhe",
+			"Capacity(in MW)": 0.995,
+			"River": "Salankhu",
+			"License Number": null,
+			"Issue_Date": "60390",
+			"Validity": "0000-00-00",
+			"Promoter": "Om Hydropower P. Ltd.,",
+			"Address": "Bafal, Kathmandu, P. O. Box: 8975 EPC 3030",
+			"VDC/Disctrict": "Bhalche,Bungtang,Salme (Nuwakot)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.11388889,
+			27.99027778]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 59.0,
+			"start_lat": 28.093889,
+			"start_lng": 84.539444,
+			"Project": "Middle Chepe Khola",
+			"Capacity(in MW)": 0.99,
+			"River": "Chepe",
+			"License Number": null,
+			"Issue_Date": "60391",
+			"Validity": "0000-00-00",
+			"Promoter": "Himchuli Hydropower Co. Pvt. Ltd.",
+			"Address": "KMC-16, Kathmandu, Ph: 4357338",
+			"VDC/Disctrict": "Thalajung (Gorkha)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [84.53944444,
+			28.09388889]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 60.0,
+			"start_lat": 28.75,
+			"start_lng": 82.0,
+			"Project": "Suwa Gad",
+			"Capacity(in MW)": 0.96,
+			"River": "Suwa Gad",
+			"License Number": null,
+			"Issue_Date": "60417",
+			"Validity": "0000-00-00",
+			"Promoter": "Peoples Hydropower Company Pvt. Ltd",
+			"Address": "GPO Box 14165, Maharajgunj, Kathmandu, Ph:62222304",
+			"VDC/Disctrict": "(Jajarkot)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [82.0,
+			28.75]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 61.0,
+			"start_lat": 27.699444,
+			"start_lng": 84.605,
+			"Project": "Deujar - Kayar Khola SHP",
+			"Capacity(in MW)": 0.975,
+			"River": "Tinau",
+			"License Number": null,
+			"Issue_Date": "60427",
+			"Validity": "0000-00-00",
+			"Promoter": "Dipak Karki \/ Tomlal Prajuli",
+			"Address": "Chainpur VDC-8 Chitwan \/ Kimdanda VDC-6, Ph: 9747029516, 071-546095",
+			"VDC/Disctrict": "(Chitwan)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [84.605,
+			27.69944444]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 62.0,
+			"start_lat": 27.93,
+			"start_lng": 85.496111,
+			"Project": "Gohore (Ichowk) Khola",
+			"Capacity(in MW)": 0.95,
+			"River": "Gohore",
+			"License Number": null,
+			"Issue_Date": "60427",
+			"Validity": "0000-00-00",
+			"Promoter": "Hast Bahadur Pandit",
+			"Address": "Ichowk-6, Sindhupalchowk, Ph: 9841734851",
+			"VDC/Disctrict": "(Sindhupalchok)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.49611111,
+			27.93]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 63.0,
+			"start_lat": 28.159167,
+			"start_lng": 84.366667,
+			"Project": "Kirinche",
+			"Capacity(in MW)": 1.0,
+			"River": "Kirinche",
+			"License Number": null,
+			"Issue_Date": "60427",
+			"Validity": "0000-00-00",
+			"Promoter": "Ashok Neupane\/ Mahes Neupane\/Sudeep Sigdel",
+			"Address": "P.O.Box: 6269, Ph: 9851019465",
+			"VDC/Disctrict": "(Lamjung)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [84.36666667,
+			28.15916667]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 64.0,
+			"start_lat": 27.939167,
+			"start_lng": 85.301111,
+			"Project": "Dorkhu Khola",
+			"Capacity(in MW)": 0.98,
+			"River": "Dorkhu",
+			"License Number": null,
+			"Issue_Date": "60454",
+			"Validity": "0000-00-00",
+			"Promoter": "Shiv Raj Sharma",
+			"Address": "Ph: 9851103761",
+			"VDC/Disctrict": "(Nuwakot)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.30111111,
+			27.93916667]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 65.0,
+			"start_lat": 27.943611,
+			"start_lng": 84.958333,
+			"Project": "Upper Thoppal Khola A",
+			"Capacity(in MW)": 0.98,
+			"River": "Thoppal",
+			"License Number": null,
+			"Issue_Date": "60454",
+			"Validity": "0000-00-00",
+			"Promoter": "Kapildev Rimal",
+			"Address": "Dhuwakot-2, Dhading Ph: 4288344, 9841030200",
+			"VDC/Disctrict": "(Dhading)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [84.95833333,
+			27.94361111]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 66.0,
+			"start_lat": 27.958333,
+			"start_lng": 85.400278,
+			"Project": "Kuntun Khola SHP",
+			"Capacity(in MW)": 0.225,
+			"River": "Kuntun",
+			"License Number": null,
+			"Issue_Date": "60490",
+			"Validity": "0000-00-00",
+			"Promoter": "Nepal Power Company Pvt. Ltd.",
+			"Address": "Adwait Marg, Bagbazar, Kathmandu P.O. Box: 15142 KPC 609 Tel: 4243962, 4225923",
+			"VDC/Disctrict": "Shikharbesi,Dhyangphedi (Nuwakot)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.40027778,
+			27.95833333]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 67.0,
+			"start_lat": 27.601111,
+			"start_lng": 86.069722,
+			"Project": "Andheri Khola",
+			"Capacity(in MW)": 0.8,
+			"River": "Andheri",
+			"License Number": null,
+			"Issue_Date": "60491",
+			"Validity": "0000-00-00",
+			"Promoter": "Dipak Kumar Budhathoki",
+			"Address": "Dolakha, 9841298621",
+			"VDC/Disctrict": "(Dolakha)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [86.06972222,
+			27.60111111]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 68.0,
+			"start_lat": 27.930278,
+			"start_lng": 85.541667,
+			"Project": "Melamchi Khola",
+			"Capacity(in MW)": 0.989,
+			"River": "Melamchi",
+			"License Number": null,
+			"Issue_Date": "60491",
+			"Validity": "0000-00-00",
+			"Promoter": "Hyalmo Hydropower Pvt. Ltd.",
+			"Address": "Jorpati 2 Kathmandu",
+			"VDC/Disctrict": "(Sindhupalchok)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.54166667,
+			27.93027778]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 69.0,
+			"start_lat": 27.8,
+			"start_lng": 85.4775,
+			"Project": "Thado khola",
+			"Capacity(in MW)": 0.95,
+			"River": "Thado",
+			"License Number": null,
+			"Issue_Date": "60491",
+			"Validity": "0000-00-00",
+			"Promoter": "Ashok Chaulagain, Ram Bahadur Gharti, Prabal Sharma",
+			"Address": null,
+			"VDC/Disctrict": "Bhotechaur (Sindhupalchok)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.4775,
+			27.8]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 70.0,
+			"start_lat": 27.850556,
+			"start_lng": 85.968333,
+			"Project": "Devdhunga-Chaku SHP",
+			"Capacity(in MW)": 0.94,
+			"River": "Chaku",
+			"License Number": null,
+			"Issue_Date": "60518",
+			"Validity": "0000-00-00",
+			"Promoter": "Devdhunga Hydropower P. Ltd.",
+			"Address": "P.O. Box: 2143, Kathmandu, Ph: 5572330, 9741003209, Fax: 5555134",
+			"VDC/Disctrict": "Fulpingkatti,Marbin (Sindhupalchok)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.96833333,
+			27.85055556]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 71.0,
+			"start_lat": 29.886667,
+			"start_lng": 80.572778,
+			"Project": "Kala Gad",
+			"Capacity(in MW)": 1.0,
+			"River": "Kala Gad",
+			"License Number": null,
+			"Issue_Date": "60518",
+			"Validity": "0000-00-00",
+			"Promoter": "Dbbal Bahadur Bam",
+			"Address": "Pipalchaur-8, Darchula, Ph: 4440107, 9803417445",
+			"VDC/Disctrict": "(Darchula)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [80.57277778,
+			29.88666667]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 72.0,
+			"start_lat": 28.0,
+			"start_lng": 85.087778,
+			"Project": "Saptan Khola",
+			"Capacity(in MW)": 0.926,
+			"River": "Saptan",
+			"License Number": null,
+			"Issue_Date": "60518",
+			"Validity": "0000-00-00",
+			"Promoter": "Saptan Hydropower P. Ltd.",
+			"Address": "KMC-16, Nayabazaar Kathmandu, Ph: 9841539046, 9851011408, 9851057894",
+			"VDC/Disctrict": "(Nuwakot)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.08777778,
+			28.0]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 73.0,
+			"start_lat": 28.016389,
+			"start_lng": 85.087778,
+			"Project": "Upper Saptan",
+			"Capacity(in MW)": 0.716,
+			"River": "Saptan",
+			"License Number": null,
+			"Issue_Date": "60518",
+			"Validity": "0000-00-00",
+			"Promoter": "Upper Saptan Hydropower P. Ltd.",
+			"Address": "KMC-16, Nayabazaar Kathmandu, Ph: 9841539046, 9851067821, 9851050004",
+			"VDC/Disctrict": "(Nuwakot)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.08777778,
+			28.01638889]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 74.0,
+			"start_lat": 27.75,
+			"start_lng": 84.913333,
+			"Project": "Dariyal Khola",
+			"Capacity(in MW)": 0.605,
+			"River": "Dariyal Khola",
+			"License Number": null,
+			"Issue_Date": "60519",
+			"Validity": "0000-00-00",
+			"Promoter": "Dariyal Small Hydropower Co. P Ltd.",
+			"Address": "KMC-9, Battisputali, Kathmandu, Ph: 9803580126, 9741129849",
+			"VDC/Disctrict": "(Dhading)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [84.91333333,
+			27.75]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 75.0,
+			"start_lat": 29.488889,
+			"start_lng": 81.048611,
+			"Project": "Tarugad",
+			"Capacity(in MW)": 0.99,
+			"River": "Tarugad",
+			"License Number": null,
+			"Issue_Date": "60519",
+			"Validity": "0000-00-00",
+			"Promoter": "Mamta Chanda",
+			"Address": "Dasharatha Chand Municipality-1, Baitadi, Ph: 9804140132, 98510343775",
+			"VDC/Disctrict": "(Bajhang)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [81.04861111,
+			29.48888889]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 76.0,
+			"start_lat": 27.75,
+			"start_lng": 83.5,
+			"Project": "Thade Khola",
+			"Capacity(in MW)": 0.2,
+			"River": "Thade Khola",
+			"License Number": null,
+			"Issue_Date": "60559",
+			"Validity": "0000-00-00",
+			"Promoter": "Bhim Lal Pandey, Babu Ram Pandey",
+			"Address": "Dovan VDC-1, Palpa \/ Butwal Municipality-14, Ph: 071-545883, 9857020566, 9747000600",
+			"VDC/Disctrict": "Archale (Palpa)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [83.5,
+			27.75]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 77.0,
+			"start_lat": 28.316111,
+			"start_lng": 84.376944,
+			"Project": "Siurung Khola",
+			"Capacity(in MW)": 0.15,
+			"River": "Siurung",
+			"License Number": null,
+			"Issue_Date": "60575",
+			"Validity": "0000-00-00",
+			"Promoter": "Umar Bahadu Gurung",
+			"Address": "P.O. Box: 12612",
+			"VDC/Disctrict": "(Lamjung)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [84.37694444,
+			28.31611111]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 78.0,
+			"start_lat": 27.734722,
+			"start_lng": 83.624444,
+			"Project": "Upper Jhumsa Khola",
+			"Capacity(in MW)": 0.95,
+			"River": "Jhumsa",
+			"License Number": null,
+			"Issue_Date": "60597",
+			"Validity": "0000-00-00",
+			"Promoter": "Roshani Shrestha",
+			"Address": "Chabahil, Kathmandu, Tel: 9851089435",
+			"VDC/Disctrict": "(Palpa)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [83.62444444,
+			27.73472222]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 79.0,
+			"start_lat": 27.508056,
+			"start_lng": 86.32,
+			"Project": "Sapsu Khola",
+			"Capacity(in MW)": 0.91,
+			"River": "Sapsu",
+			"License Number": null,
+			"Issue_Date": "60603",
+			"Validity": "0000-00-00",
+			"Promoter": "Lila Bahadur Sunuwar",
+			"Address": "Kubunkasthali, Ramechhap, P.O. Box: 5947, Tel:9841048107",
+			"VDC/Disctrict": "Kubukasthali,Pritee (Ramechhap)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [86.32,
+			27.50805556]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 80.0,
+			"start_lat": 29.223611,
+			"start_lng": 82.121667,
+			"Project": "Giri Khola SHP",
+			"Capacity(in MW)": 0.143,
+			"River": "Giri",
+			"License Number": null,
+			"Issue_Date": "60605",
+			"Validity": "0000-00-00",
+			"Promoter": "Girikhola Jalpadevi Gramin Bidhutikaran Sanstha Limited",
+			"Address": "Harku-5, Jumla, Tel: 9848300627,9748902634",
+			"VDC/Disctrict": "Haku,Labhra,Tatopani,Talium (Jumla)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [82.12166667,
+			29.22361111]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 81.0,
+			"start_lat": 28.791667,
+			"start_lng": 82.0,
+			"Project": "Satya Khola SHP",
+			"Capacity(in MW)": 0.94,
+			"River": "Satya",
+			"License Number": null,
+			"Issue_Date": "60624",
+			"Validity": "0000-00-00",
+			"Promoter": "Arjun Prasad Gautam\/Gokul Shrestha",
+			"Address": "P.O. Box: 7457, Tel: 01-4269939, 9851033192\/9851002154",
+			"VDC/Disctrict": "Garkhakot (Jajarkot)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [82.0,
+			28.79166667]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 82.0,
+			"start_lat": 28.136667,
+			"start_lng": 85.255556,
+			"Project": "Chhedingmo Khola SHP",
+			"Capacity(in MW)": 0.506,
+			"River": "Chhedingmo",
+			"License Number": null,
+			"Issue_Date": "60627",
+			"Validity": "0000-00-00",
+			"Promoter": "A-N Hydropower Company (P) Ltd.",
+			"Address": "Bhaktapur, Tel: 01-6614359",
+			"VDC/Disctrict": "(Rasuwa)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.25555556,
+			28.13666667]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 83.0,
+			"start_lat": 27.570556,
+			"start_lng": 86.259167,
+			"Project": "Dorje Khola",
+			"Capacity(in MW)": 0.75,
+			"River": "Dorje",
+			"License Number": null,
+			"Issue_Date": "60627",
+			"Validity": "0000-00-00",
+			"Promoter": "Ujyalo Hydro Energy Pvt. ltd.",
+			"Address": "New Baneswor, Kathmandu, Tel: 016209891, 9851110368, 9851064529",
+			"VDC/Disctrict": "Those (Ramechhap)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [86.25916667,
+			27.57055556]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 84.0,
+			"start_lat": 28.195833,
+			"start_lng": 82.906944,
+			"Project": "Lung - 1",
+			"Capacity(in MW)": 0.988,
+			"River": "Lung",
+			"License Number": null,
+			"Issue_Date": "60628",
+			"Validity": "0000-00-00",
+			"Promoter": "Glory Tech. Consultancy P. Ltd.",
+			"Address": "P.O. Box: 10190, 016211260, 9841460116",
+			"VDC/Disctrict": "(Pyuthan)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [82.90694444,
+			28.19583333]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 85.0,
+			"start_lat": 28.163889,
+			"start_lng": 85.277222,
+			"Project": "Bamdang",
+			"Capacity(in MW)": 0.65,
+			"River": "Bamdang",
+			"License Number": null,
+			"Issue_Date": "60641",
+			"Validity": "0000-00-00",
+			"Promoter": "Makalu Energy Development P. Ltd.",
+			"Address": "P.O. Box: 11039, Tel: 01-4269939",
+			"VDC/Disctrict": "(Rasuwa)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.27722222,
+			28.16388889]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 86.0,
+			"start_lat": 28.75,
+			"start_lng": 83.719444,
+			"Project": "Thini Khola",
+			"Capacity(in MW)": 0.999,
+			"River": "Thini",
+			"License Number": "251",
+			"Issue_Date": "60641",
+			"Validity": "0000-00-00",
+			"Promoter": "Chandeshwari Hydro Pvt. Ltd",
+			"Address": "Tel: 016210064, 2230032",
+			"VDC/Disctrict": "(Mustang)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [83.71944444,
+			28.75]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 87.0,
+			"start_lat": 27.530833,
+			"start_lng": 86.589444,
+			"Project": "Chiwan Khola Small",
+			"Capacity(in MW)": 0.11,
+			"River": "chiwan",
+			"License Number": null,
+			"Issue_Date": "60646",
+			"Validity": "0000-00-00",
+			"Promoter": "Uttam Basnet",
+			"Address": "P.O.Box 1342 Kathmandu, Phone 9841289198",
+			"VDC/Disctrict": "Salleri (Solukhumbu)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [86.58944444,
+			27.53083333]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 88.0,
+			"start_lat": 27.143889,
+			"start_lng": 87.9,
+			"Project": "Muwa Khola",
+			"Capacity(in MW)": 0.998,
+			"River": "Phidim",
+			"License Number": null,
+			"Issue_Date": "60654",
+			"Validity": "0000-00-00",
+			"Promoter": "Phidim Hydro & Energy P. Ltd. (Naresh Kumar Lawati)",
+			"Address": "Panchathar, Phdim 1, Ph: 024520045, 9841331898 (Gyanendra Sapkota)",
+			"VDC/Disctrict": "(Panchthar)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [87.9,
+			27.14388889]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 89.0,
+			"start_lat": 27.530278,
+			"start_lng": 86.304167,
+			"Project": "Sapsu Khola II",
+			"Capacity(in MW)": 0.5,
+			"River": null,
+			"License Number": null,
+			"Issue_Date": "60654",
+			"Validity": "0000-00-00",
+			"Promoter": "Tej Kumari Sunuwar",
+			"Address": "Kubukasthali-2 Ramechhap, Tel: 9741146724",
+			"VDC/Disctrict": "Pritee (Ramechhap)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [86.30416667,
+			27.53027778]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 90.0,
+			"start_lat": 28.500833,
+			"start_lng": 83.295556,
+			"Project": "Dar Khola",
+			"Capacity(in MW)": 0.995,
+			"River": "Dar",
+			"License Number": null,
+			"Issue_Date": "60662",
+			"Validity": "0000-00-00",
+			"Promoter": "Nabin kumar Sahi",
+			"Address": "Piple-1, Myagdi",
+			"VDC/Disctrict": "(Myagdi)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [83.29555556,
+			28.50083333]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 91.0,
+			"start_lat": 27.273611,
+			"start_lng": 86.583333,
+			"Project": "ThotneKhola",
+			"Capacity(in MW)": 0.48,
+			"River": "Thotne",
+			"License Number": null,
+			"Issue_Date": "60662",
+			"Validity": "0000-00-00",
+			"Promoter": "Dobhan Hydropower P. Ltd.",
+			"Address": "P.O. Box: 23746, Tel: 014471938",
+			"VDC/Disctrict": "(Okhaldhunga)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [86.58333333,
+			27.27361111]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 92.0,
+			"start_lat": 27.902778,
+			"start_lng": 85.4125,
+			"Project": "Hadi Khola",
+			"Capacity(in MW)": 0.5,
+			"River": null,
+			"License Number": null,
+			"Issue_Date": "60668",
+			"Validity": "0000-00-00",
+			"Promoter": "Manahari Sapkota, Madhukar Pande",
+			"Address": "Patiyani 7 Chutawan, Phone 9841296784 (Manahari), 9841542318 (Madhukar)",
+			"VDC/Disctrict": "Beteni (Nuwakot)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.4125,
+			27.90277778]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 93.0,
+			"start_lat": 27.902778,
+			"start_lng": 85.4125,
+			"Project": "Hadi Khola SHP",
+			"Capacity(in MW)": 0.5,
+			"River": "Hadi",
+			"License Number": null,
+			"Issue_Date": "60668",
+			"Validity": "0000-00-00",
+			"Promoter": "Manhari sapkota, Madhukar Pandey",
+			"Address": "Patiyani-7, Chitwan, Tel: 9841296784\/Samundratar-3, Nuwakot, Tel: 9841542318",
+			"VDC/Disctrict": "Beteni,Rautbesi (Nuwakot)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.4125,
+			27.90277778]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 94.0,
+			"start_lat": 26.869444,
+			"start_lng": 87.95,
+			"Project": "Andheri Khola",
+			"Capacity(in MW)": 0.811,
+			"River": "Andheri",
+			"License Number": null,
+			"Issue_Date": "60673",
+			"Validity": "0000-00-00",
+			"Promoter": "Sunshine Hydropower Co P Ltd",
+			"Address": "Godak-4, Ilam, KMC-10, Thapagaun, Kathmandu, Tel: 01-2043191, 9851085922",
+			"VDC/Disctrict": null,
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [87.95,
+			26.86944444]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 95.0,
+			"start_lat": 29.733333,
+			"start_lng": 80.791944,
+			"Project": "Nwa Gad",
+			"Capacity(in MW)": 1.0,
+			"River": "Nwa Gad",
+			"License Number": null,
+			"Issue_Date": "60690",
+			"Validity": "0000-00-00",
+			"Promoter": "Surya Prasad Upadhyaya",
+			"Address": "Kathmandu-14, Kuleshwor colony 119, Tel: 4302960",
+			"VDC/Disctrict": "(Darchula)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [80.79194444,
+			29.73333333]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 96.0,
+			"start_lat": 28.783333,
+			"start_lng": 81.966667,
+			"Project": "Mujkot Khola",
+			"Capacity(in MW)": 0.974,
+			"River": "Mujkot",
+			"License Number": null,
+			"Issue_Date": "60717",
+			"Validity": "0000-00-00",
+			"Promoter": "Keshab bahadur Rayamajhi & Narayan Prasad Pandey",
+			"Address": "Tel: 9851035505, 9841236054, 4269939",
+			"VDC/Disctrict": "(Jajarkot)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [81.96666667,
+			28.78333333]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 97.0,
+			"start_lat": 27.0,
+			"start_lng": 87.423056,
+			"Project": "Teliya Khola SHP",
+			"Capacity(in MW)": 0.996,
+			"River": "Teliya",
+			"License Number": null,
+			"Issue_Date": "60719",
+			"Validity": "0000-00-00",
+			"Promoter": "Madhav Prasad Lingthep",
+			"Address": "Mawadin VDC-1, Sankhuwasabha",
+			"VDC/Disctrict": "Amgdeem,Hamarjung (Terhathum)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [87.42305556,
+			27.0]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 98.0,
+			"start_lat": 27.585556,
+			"start_lng": 86.533889,
+			"Project": "Upper Junbesi SHP",
+			"Capacity(in MW)": 0.6,
+			"River": "Junbesi (Rasa Khola)",
+			"License Number": null,
+			"Issue_Date": "60721",
+			"Validity": "0000-00-00",
+			"Promoter": "Beni Electricity Company Limited",
+			"Address": "Junbesi-4, Solukhumbu",
+			"VDC/Disctrict": "Beni (Solukhumbu)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [86.53388889,
+			27.58555556]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 99.0,
+			"start_lat": 28.5475,
+			"start_lng": 82.645833,
+			"Project": "Lukum Khola",
+			"Capacity(in MW)": 0.95,
+			"River": "Lukum",
+			"License Number": null,
+			"Issue_Date": "60761",
+			"Validity": "0000-00-00",
+			"Promoter": "Purna Kumari Rokka",
+			"Address": "Mahat VDC-8, Rukum",
+			"VDC/Disctrict": "(Rukum)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [82.64583333,
+			28.5475]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 100.0,
+			"start_lat": 27.875,
+			"start_lng": 85.6175,
+			"Project": "Lapse Khola",
+			"Capacity(in MW)": 0.998,
+			"River": "Lapse",
+			"License Number": null,
+			"Issue_Date": "60762",
+			"Validity": "0000-00-00",
+			"Promoter": "Indrawati Hydropower Pvt. Ltd.",
+			"Address": "Naya Baneshwor, Kathmandu, Tel: 9741000893, 9741153737",
+			"VDC/Disctrict": "(Sindhupalchok)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.6175,
+			27.875]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 101.0,
+			"start_lat": 28.613056,
+			"start_lng": 82.568333,
+			"Project": "Naudhari SHP",
+			"Capacity(in MW)": 0.6,
+			"River": "Naudhari",
+			"License Number": null,
+			"Issue_Date": "61016",
+			"Validity": "0000-00-00",
+			"Promoter": "Always Competent Alliance Power Pvt. Ltd.",
+			"Address": "Kapan-3, Kathmandu, Tel: 099-380803, 6847852573",
+			"VDC/Disctrict": "Syalaphakha (Rukum)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [82.56833333,
+			28.61305556]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 102.0,
+			"start_lat": 27.926944,
+			"start_lng": 83.390278,
+			"Project": "Sardewa Khola SHP",
+			"Capacity(in MW)": 0.5,
+			"River": "Sardewa",
+			"License Number": null,
+			"Issue_Date": "61016",
+			"Validity": "0000-00-00",
+			"Promoter": "United Hydropower Company Pvt. Ltd.",
+			"Address": "Butwal Municipality- 7, Rupendahi",
+			"VDC/Disctrict": "Siddheshwor,Somadi (Palpa)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [83.39027778,
+			27.92694444]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 103.0,
+			"start_lat": 29.491944,
+			"start_lng": 81.1275,
+			"Project": "Jadari Gad",
+			"Capacity(in MW)": 0.84,
+			"River": "Jadari Gad",
+			"License Number": null,
+			"Issue_Date": "61018",
+			"Validity": "0000-00-00",
+			"Promoter": "Bishu Prasad Khatri",
+			"Address": "Bishal Nagar-4, House No: 53\/53 Chha, Tel: 4410184",
+			"VDC/Disctrict": "(Bajhang)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [81.1275,
+			29.49194444]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 104.0,
+			"start_lat": 28.016667,
+			"start_lng": 85.025,
+			"Project": "Kintan-2 SHP",
+			"Capacity(in MW)": 0.53,
+			"River": "Kintan",
+			"License Number": null,
+			"Issue_Date": "61018",
+			"Validity": "0000-00-00",
+			"Promoter": "A.B Tamang,S.B. Tamang, Muisung Tamang",
+			"Address": "Dhading, Tel: 9841160830,9851078549",
+			"VDC/Disctrict": "Satyadevi (Dhading) Kintang (Nuwakot)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.025,
+			28.01666667]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 105.0,
+			"start_lat": 27.924444,
+			"start_lng": 85.453056,
+			"Project": "Chhepar Khola",
+			"Capacity(in MW)": 0.999,
+			"River": "Chhepar",
+			"License Number": null,
+			"Issue_Date": "61020",
+			"Validity": "0000-00-00",
+			"Promoter": "Manahari Sapkota & Madhukar Pandey",
+			"Address": "Samundratar, Nuwakot, Tel: 9841542318",
+			"VDC/Disctrict": "Gaunkharka,Rautbesi (Nuwakot)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.45305556,
+			27.92444444]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 106.0,
+			"start_lat": 29.020556,
+			"start_lng": 80.715,
+			"Project": "Tepule Gad",
+			"Capacity(in MW)": 0.95,
+			"River": "Tepule Gad",
+			"License Number": null,
+			"Issue_Date": "61025",
+			"Validity": "0000-00-00",
+			"Promoter": "Jaladevi Hydropower Pvt. Ltd.",
+			"Address": "KMC -10, Kathmandu",
+			"VDC/Disctrict": "(Doti)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [80.715,
+			29.02055556]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 107.0,
+			"start_lat": 27.789444,
+			"start_lng": 85.048333,
+			"Project": "Kolphu Khola SHP",
+			"Capacity(in MW)": 0.995,
+			"River": "Kolphu",
+			"License Number": null,
+			"Issue_Date": "61045",
+			"Validity": "0000-00-00",
+			"Promoter": "Khadure Laghu Jalvidhyut Company",
+			"Address": "Goganpani VDC, Dhading, Tel: 9841800530",
+			"VDC/Disctrict": "Goganpani (Dhading)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.04833333,
+			27.78944444]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 108.0,
+			"start_lat": 27.945833,
+			"start_lng": 84.595833,
+			"Project": "Ludi Khola SHP",
+			"Capacity(in MW)": 0.85,
+			"River": "Ludi",
+			"License Number": null,
+			"Issue_Date": "61065",
+			"Validity": "0000-00-00",
+			"Promoter": "Ludi Hydropower Development Company Pvt Ltd",
+			"Address": "GPO Box:6709, Kathmandu Tel:9841112392",
+			"VDC/Disctrict": "Bakrang (Gorkha)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [84.59583333,
+			27.94583333]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 109.0,
+			"start_lat": 26.822222,
+			"start_lng": 87.695833,
+			"Project": "Ratuwa Khola SHP",
+			"Capacity(in MW)": 0.37,
+			"River": "Ratuwa",
+			"License Number": null,
+			"Issue_Date": "61066",
+			"Validity": "0000-00-00",
+			"Promoter": "Pabitra Nadolun Gramin Jalbidhut Aayojana Pvt. Ltd.",
+			"Address": "Bajho VDC-8, Ilam, Krishna Kumar Younghang (Subba), Tel: 9842026179, P.O.Box: 8973 N.P.C. - 796",
+			"VDC/Disctrict": "Bajho (Ilam)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [87.69583333,
+			26.82222222]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 110.0,
+			"start_lat": 27.393333,
+			"start_lng": 87.916667,
+			"Project": "Siwa Khola SHP",
+			"Capacity(in MW)": 0.998,
+			"River": "Siwa",
+			"License Number": null,
+			"Issue_Date": "61072",
+			"Validity": "0000-00-00",
+			"Promoter": "Hem Raj Gautam",
+			"Address": "Khebang-4, Taplejung",
+			"VDC/Disctrict": "Surunkhim,Khewang (Taplejung)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [87.91666667,
+			27.39333333]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 111.0,
+			"start_lat": 28.083333,
+			"start_lng": 84.948611,
+			"Project": "Aphal Khola SHP",
+			"Capacity(in MW)": 0.58,
+			"River": "Aphal",
+			"License Number": null,
+			"Issue_Date": "61083",
+			"Validity": "0000-00-00",
+			"Promoter": "Aaphal Hydropower Pvt Ltd",
+			"Address": "Nilkantha-5, Dhading, Tel: 01-4027503, 9841067209, 9851062599",
+			"VDC/Disctrict": "Gumdi,Ree (Dhading)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [84.94861111,
+			28.08333333]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 112.0,
+			"start_lat": 28.21,
+			"start_lng": 84.616667,
+			"Project": "Chyandi Khola",
+			"Capacity(in MW)": 0.98,
+			"River": "Chyandi",
+			"License Number": null,
+			"Issue_Date": "61083",
+			"Validity": "0000-00-00",
+			"Promoter": "Puspa Duwadi",
+			"Address": "Bichour VDC-1, 9841285134",
+			"VDC/Disctrict": "(Lamjung)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [84.61666667,
+			28.21]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 113.0,
+			"start_lat": 28.093889,
+			"start_lng": 84.661667,
+			"Project": "Hudi Khola Hydropower Project",
+			"Capacity(in MW)": 0.92,
+			"River": "Hudi",
+			"License Number": null,
+			"Issue_Date": "61089",
+			"Validity": "0000-00-00",
+			"Promoter": "Sai Baba Power and Energy Pvt. Ltd.",
+			"Address": "KMC-14, Kalanki, Kathmandu, P.O. Box: 13853, Tel: 01-4315495, 9851079482",
+			"VDC/Disctrict": "Takumajhlakuribot (Gorkha)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [84.66166667,
+			28.09388889]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 114.0,
+			"start_lat": 27.932778,
+			"start_lng": 85.682222,
+			"Project": "Upper Hadi A",
+			"Capacity(in MW)": 0.998,
+			"River": "Hadi",
+			"License Number": null,
+			"Issue_Date": "61097",
+			"Validity": "0000-00-00",
+			"Promoter": "Indra Bahadur Tamang",
+			"Address": "Thanpalkot-2, Sindhupalchowk, P.O. Box: 20547, Tel: 9741025665",
+			"VDC/Disctrict": "Gunsa,Thanpalkot (Sindhupalchok)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.68222222,
+			27.93277778]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 115.0,
+			"start_lat": 28.2975,
+			"start_lng": 84.193611,
+			"Project": "Togo (Rudi) Khola SHP",
+			"Capacity(in MW)": 0.67,
+			"River": "Rudi",
+			"License Number": null,
+			"Issue_Date": "61105",
+			"Validity": "0000-00-00",
+			"Promoter": "Surya Kala (Baral) Koirala",
+			"Address": "KMC-29, Samakhusi, Kathmandu",
+			"VDC/Disctrict": "Mijuredada (Kaski)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [84.19361111,
+			28.2975]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 116.0,
+			"start_lat": 27.892778,
+			"start_lng": 86.833333,
+			"Project": "Imja Khola SHP",
+			"Capacity(in MW)": 0.2,
+			"River": "Imja Khola",
+			"License Number": null,
+			"Issue_Date": "61107",
+			"Validity": "0000-00-00",
+			"Promoter": "Dingboche Bidhyut Company Pvt Ltd",
+			"Address": "Thamel, Kathmandu, Ph: 9841558571, 01-5542051KMC_29, Thamel, Kathmandu, P.O. Box: 25070, Ph: 9841558571, 01-5542051",
+			"VDC/Disctrict": "Khumjung (Solukhumbu)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [86.83333333,
+			27.89277778]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 117.0,
+			"start_lat": 27.780556,
+			"start_lng": 85.957778,
+			"Project": "Hadi Khola A",
+			"Capacity(in MW)": 0.997,
+			"River": "Hadi",
+			"License Number": null,
+			"Issue_Date": "61132",
+			"Validity": "0000-00-00",
+			"Promoter": "Yub Raj Basnet",
+			"Address": "Deurali Club-34, New Baneshwor, Kathmandu, Tel: 9851015520",
+			"VDC/Disctrict": "Ghorthali,Karthali (Sindhupalchok)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.95777778,
+			27.78055556]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 118.0,
+			"start_lat": 29.505556,
+			"start_lng": 81.839444,
+			"Project": "Khatyat Khola SHP",
+			"Capacity(in MW)": 0.5,
+			"River": "Khatyat",
+			"License Number": null,
+			"Issue_Date": "61149",
+			"Validity": "0000-00-00",
+			"Promoter": "Shrijanshil Krishi Sahakari Sanstha Ltd,",
+			"Address": "Shukdhik VDC, Mugu, Tel: 9848082036, P.O. Box: 20506",
+			"VDC/Disctrict": "Sukhadhik (Mugu)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [81.83944444,
+			29.50555556]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 119.0,
+			"start_lat": 27.976111,
+			"start_lng": 85.6475,
+			"Project": "Ksumti Khola SHP",
+			"Capacity(in MW)": 0.683,
+			"River": "Ksumti Khola",
+			"License Number": null,
+			"Issue_Date": "61149",
+			"Validity": "0000-00-00",
+			"Promoter": "Helambu Construction Company Pvt Ltd",
+			"Address": "Jorpati, Kathmandu , Tel: 4910229,9851035885",
+			"VDC/Disctrict": "Bhotang (Sindhupalchok)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.6475,
+			27.97611111]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 120.0,
+			"start_lat": 27.375,
+			"start_lng": 85.474444,
+			"Project": "Kham Khola SHP",
+			"Capacity(in MW)": 0.924,
+			"River": "Kham",
+			"License Number": null,
+			"Issue_Date": "61160",
+			"Validity": "0000-00-00",
+			"Promoter": "Manju Poudel, A.K.Bhagat",
+			"Address": "Lubhu VDC, lalitpur, Tel:9851074965,9841885801",
+			"VDC/Disctrict": "Salamechakla(Taldhunga) (Kavrepalanchok)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.47444444,
+			27.375]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 121.0,
+			"start_lat": 28.215,
+			"start_lng": 83.007778,
+			"Project": "Jhimruk Khola SHP",
+			"Capacity(in MW)": 0.9,
+			"River": "Jhimruk",
+			"License Number": null,
+			"Issue_Date": "61218",
+			"Validity": "0000-00-00",
+			"Promoter": "Panchratna Power Company Pvt Ltd",
+			"Address": "Khalanga-5, Pyuthan",
+			"VDC/Disctrict": "Rajbara (Pyuthan)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [83.00777778,
+			28.215]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 122.0,
+			"start_lat": 26.808889,
+			"start_lng": 87.408056,
+			"Project": "Khadam Khola HPP",
+			"Capacity(in MW)": 0.63,
+			"River": "Khadam",
+			"License Number": null,
+			"Issue_Date": "61218",
+			"Validity": "0000-00-00",
+			"Promoter": "Keshav Ghimire",
+			"Address": "JajalaVDC-7, Sankhuwasabha Tel: 9742013793,5555816",
+			"VDC/Disctrict": "Bhogateni,Patigaun (Morang)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [87.40805556,
+			26.80888889]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 123.0,
+			"start_lat": 27.754444,
+			"start_lng": 85.813056,
+			"Project": "Andheri Khola HPP",
+			"Capacity(in MW)": 0.3,
+			"River": "Andheri",
+			"License Number": null,
+			"Issue_Date": "61324",
+			"Validity": "0000-00-00",
+			"Promoter": "Krishna Prasad Timilsina",
+			"Address": "Makha-9, Sindhupalchowk",
+			"VDC/Disctrict": "Mankha (Sindhupalchok)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.81305556,
+			27.75444444]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 124.0,
+			"start_lat": 26.804444,
+			"start_lng": 87.531389,
+			"Project": "Bhuwa Khola SHP",
+			"Capacity(in MW)": 0.408,
+			"River": "Bhuwa",
+			"License Number": null,
+			"Issue_Date": "61324",
+			"Validity": "0000-00-00",
+			"Promoter": "Devlinge Hydropower Company P Ltd.",
+			"Address": "Warangi ,Morang",
+			"VDC/Disctrict": "Warangi (Morang)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [87.53138889,
+			26.80444444]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 125.0,
+			"start_lat": 28.116944,
+			"start_lng": 83.266667,
+			"Project": "Chhaldi Khola SHP",
+			"Capacity(in MW)": 0.957,
+			"River": "Chhaldi",
+			"License Number": null,
+			"Issue_Date": "61324",
+			"Validity": "0000-00-00",
+			"Promoter": "Dev Raj Khanal, Tulsi B. Raymajhi, Guru Prasad Bagle",
+			"Address": "Arkhalr VDC, Gulmi Tel: 9857026109",
+			"VDC/Disctrict": "Badagaun,Paralmi (Gulmi)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [83.26666667,
+			28.11694444]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 126.0,
+			"start_lat": 28.430278,
+			"start_lng": 83.366111,
+			"Project": "Dan Khola SHP",
+			"Capacity(in MW)": 0.997,
+			"River": "Dan",
+			"License Number": null,
+			"Issue_Date": "61324",
+			"Validity": "0000-00-00",
+			"Promoter": "Darbang Hydropower P Ltd,",
+			"Address": "Saibaba Marg, Banasthali KTM, 9841365234",
+			"VDC/Disctrict": "Devisthan (Myagdi)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [83.36611111,
+			28.43027778]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 127.0,
+			"start_lat": 27.853056,
+			"start_lng": 82.983333,
+			"Project": "Lower Sit Khola SHP",
+			"Capacity(in MW)": 0.95,
+			"River": "Sit",
+			"License Number": null,
+			"Issue_Date": "61324",
+			"Validity": "0000-00-00",
+			"Promoter": "Alliance Energy Solutions Pvt Ltd",
+			"Address": "GPO Box: 8957, Kathmandu, Tel: 9841476737",
+			"VDC/Disctrict": "Jukena,Juluke (Arghakhanchi)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [82.98333333,
+			27.85305556]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 128.0,
+			"start_lat": 27.15,
+			"start_lng": 87.375,
+			"Project": "Leguwa Khola SHP",
+			"Capacity(in MW)": 0.977,
+			"River": "Leguwa",
+			"License Number": null,
+			"Issue_Date": "61331",
+			"Validity": "0000-00-00",
+			"Promoter": "Gramin Bidhyut Sahakari Sanstha Ltd.",
+			"Address": "Marekatare-5, Dhankuta",
+			"VDC/Disctrict": "Marek Kataharl (Dhankuta)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [87.375,
+			27.15]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 129.0,
+			"start_lat": 29.15,
+			"start_lng": 80.342222,
+			"Project": "Sirse Gad SHP",
+			"Capacity(in MW)": 0.99,
+			"River": "Sirse",
+			"License Number": null,
+			"Issue_Date": "61375",
+			"Validity": "0000-00-00",
+			"Promoter": "Shyun Hydro Pvt Ltd",
+			"Address": "Kathmandu Municipality-10, Kathmandu",
+			"VDC/Disctrict": "Sirsha (Dadeldhura)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [80.34222222,
+			29.15]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 130.0,
+			"start_lat": 27.5125,
+			"start_lng": 86.398611,
+			"Project": "Yolmu Khola SHP",
+			"Capacity(in MW)": 0.995,
+			"River": "Yolmu",
+			"License Number": null,
+			"Issue_Date": "61390",
+			"Validity": "0000-00-00",
+			"Promoter": "Kaljung Sherpa",
+			"Address": "Goli VDC-7, Solukhumbu, Tel: 9803884908",
+			"VDC/Disctrict": "Goli (Solukhumbu)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [86.39861111,
+			27.5125]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 131.0,
+			"start_lat": 27.916667,
+			"start_lng": 85.773611,
+			"Project": "Rasata Ghatta Khola SHP",
+			"Capacity(in MW)": 0.32,
+			"River": "Ghatta",
+			"License Number": null,
+			"Issue_Date": "61544",
+			"Validity": "0000-00-00",
+			"Promoter": "Padam B. Silwal, Himal Lama, Dhan B. Sunuwar, Budhi B. Sunuwar, Pan B. Sunuwar",
+			"Address": "Gumba-VDC, Sindhupalchowk, Tel: 9841643507",
+			"VDC/Disctrict": "Gumba (Sindhupalchok)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.77361111,
+			27.91666667]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 132.0,
+			"start_lat": 28.072222,
+			"start_lng": 85.133333,
+			"Project": "Upper Nyam Khola",
+			"Capacity(in MW)": 1.0,
+			"River": "Nyam Nyam",
+			"License Number": null,
+			"Issue_Date": "61630",
+			"Validity": "0000-00-00",
+			"Promoter": "Bisnu Prasad Khanal, Gobind Prasad Bhattarai, Indra Prasad Sapkota",
+			"Address": "Maharaj Gunj, Kathmandu",
+			"VDC/Disctrict": "Dandagoun (Rasuwa)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.13333333,
+			28.07222222]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 133.0,
+			"start_lat": 28.328889,
+			"start_lng": 83.3725,
+			"Project": "Tara Khola Community (Mini) Hydropower Project",
+			"Capacity(in MW)": 0.5,
+			"River": "Tara",
+			"License Number": null,
+			"Issue_Date": "61663",
+			"Validity": "0000-00-00",
+			"Promoter": "Tara Khola Community Small Hydropower Consumer Committee",
+			"Address": "Tara-7, Bagling, 9847628615 (Bal B. KC)",
+			"VDC/Disctrict": "Tara (Baglung)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [83.3725,
+			28.32888889]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 134.0,
+			"start_lat": 29.580556,
+			"start_lng": 81.143889,
+			"Project": "Jeuli Gad",
+			"Capacity(in MW)": 0.996,
+			"River": "Jeuli and Bauli",
+			"License Number": null,
+			"Issue_Date": "2069-02-32",
+			"Validity": "0000-00-00",
+			"Promoter": "Rangunkhola Hydropower Pvt.Ltd.",
+			"Address": "P.O.Box 23330, Kathmandu, Phone 01-4377462",
+			"VDC/Disctrict": "Chainpur,Rithapata (Bajhang)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [81.14388889,
+			29.58055556]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 135.0,
+			"start_lat": 29.253611,
+			"start_lng": 82.367222,
+			"Project": "Patarashi Chukeni Mini Hydropower Project",
+			"Capacity(in MW)": 0.5,
+			"River": "Patal Goth",
+			"License Number": null,
+			"Issue_Date": "61890",
+			"Validity": "0000-00-00",
+			"Promoter": "Chukeni Khola Bodyut Sahakari Sastha Limited (Gor Bahadur Budha)",
+			"Address": "Patarashi-7, Jumla, 9758900268",
+			"VDC/Disctrict": "Chhumchaur,Dillichaur,Patarasi,Patmara (Jumla)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [82.36722222,
+			29.25361111]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 136.0,
+			"start_lat": 27.833333,
+			"start_lng": 85.675556,
+			"Project": "Jhyari Khola SHP",
+			"Capacity(in MW)": 0.42,
+			"River": "Jhyari",
+			"License Number": null,
+			"Issue_Date": "62046",
+			"Validity": "62410",
+			"Promoter": "Noling Bajra Hydropower Company Pvt Ltd",
+			"Address": "Kathmandu Municipality-6, Baudha, Tel: 9741134253, 9741218356",
+			"VDC/Disctrict": "Sipal Kavre (Sindhupalchok)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.67555556,
+			27.83333333]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 137.0,
+			"start_lat": 27.674722,
+			"start_lng": 86.320833,
+			"Project": "Ghatte Khola SHP",
+			"Capacity(in MW)": 1.0,
+			"River": "Ghatte",
+			"License Number": null,
+			"Issue_Date": "62076",
+			"Validity": "62440",
+			"Promoter": "Garibi Nivaran Vidhyut Nirman Company Pvt Ltd",
+			"Address": "Kathmandu, Tel: 9841424200",
+			"VDC/Disctrict": "Syama (Dolakha)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [86.32083333,
+			27.67472222]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 138.0,
+			"start_lat": 29.0125,
+			"start_lng": 80.661111,
+			"Project": "Shantipur Basar",
+			"Capacity(in MW)": 0.581,
+			"River": "Thuligad",
+			"License Number": null,
+			"Issue_Date": "62343",
+			"Validity": "0000-00-00",
+			"Promoter": "Shantipur Basar SHP Users Commitee",
+			"Address": "Nigali 1 , kailali",
+			"VDC/Disctrict": "Nigali,Sahajpur (Kailali)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [80.661111111111097,
+			29.0125]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 139.0,
+			"start_lat": 28.0625,
+			"start_lng": 83.531944,
+			"Project": "Gulandi Khola SHP",
+			"Capacity(in MW)": 0.98,
+			"River": "Gulandi",
+			"License Number": null,
+			"Issue_Date": "62359",
+			"Validity": "0000-00-00",
+			"Promoter": "Jhilimili Hydropower Company Pvt. Ltd.",
+			"Address": "Pokhara-11, Kaski, Phone: 9856029779",
+			"VDC/Disctrict": "Khadagkot,Foksing,Purtighat (Gulmi)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [83.53194444,
+			28.0625]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 140.0,
+			"start_lat": 28.458333,
+			"start_lng": 83.385,
+			"Project": "Marang Khola SHP",
+			"Capacity(in MW)": 0.998,
+			"River": "Marang",
+			"License Number": null,
+			"Issue_Date": "62394",
+			"Validity": "0000-00-00",
+			"Promoter": "Shiwani Shreya Nirman Sewa",
+			"Address": "Dhapasi, Kathmandu-7, Mobile: 9851092691",
+			"VDC/Disctrict": "Bima (Myagdi)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [83.385,
+			28.45833333]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 141.0,
+			"start_lat": 27.791667,
+			"start_lng": 84.280278,
+			"Project": "Taranga Khola SHP",
+			"Capacity(in MW)": 0.9,
+			"River": "Taranga",
+			"License Number": null,
+			"Issue_Date": "62394",
+			"Validity": "0000-00-00",
+			"Promoter": "Taranga Khola Sana Jal Vidyut Aayojana Pvt. Ltd.",
+			"Address": "GPO Box: 2314, Kathmandu, Tel: 01-5010752, 9851025865",
+			"VDC/Disctrict": "Gaidakot,Kotathar,Ratnapur (Nawalparasi)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [84.28027778,
+			27.79166667]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 142.0,
+			"start_lat": 27.853056,
+			"start_lng": 83.045833,
+			"Project": "Upper Sit Khola SHP",
+			"Capacity(in MW)": 0.78,
+			"River": "Sit",
+			"License Number": null,
+			"Issue_Date": "62493",
+			"Validity": "0000-00-00",
+			"Promoter": "Alliance Energy Solutions Pvt Ltd",
+			"Address": "GPO Box: 8957, Kathmandu, Tel: 9841476737",
+			"VDC/Disctrict": "Jukena,Juluke (Arghakhanchi)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [83.04583333,
+			27.85305556]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 143.0,
+			"start_lat": 27.322222,
+			"start_lng": 87.766667,
+			"Project": "Middle Phawa Khola Small Hydroelectric Project",
+			"Capacity(in MW)": 0.244,
+			"River": "Phawa",
+			"License Number": null,
+			"Issue_Date": "62569",
+			"Validity": "0000-00-00",
+			"Promoter": "Madhay Phawa Khola Micro Hydro Users Commitee",
+			"Address": "Phulingt-4, Taplejung",
+			"VDC/Disctrict": "Sikaicha (Taplejung)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [87.76666667,
+			27.32222222]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 144.0,
+			"start_lat": 28.566667,
+			"start_lng": 82.433333,
+			"Project": "Simrutu Khola",
+			"Capacity(in MW)": 0.2,
+			"River": "Simruth",
+			"License Number": null,
+			"Issue_Date": "62609",
+			"Validity": "0000-00-00",
+			"Promoter": "Simrutu Khola Jal Upvokta Samiti",
+			"Address": "Rukum",
+			"VDC/Disctrict": "Rugha (Rukum)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [82.433333333333294,
+			28.56666667]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"sn": 145.0,
+			"start_lat": 28.769444,
+			"start_lng": 82.479167,
+			"Project": "Khadigad Khola",
+			"Capacity(in MW)": 0.5,
+			"River": "khadigad",
+			"License Number": null,
+			"Issue_Date": "62611",
+			"Validity": "0000-00-00",
+			"Promoter": "Khadigad Khola Mini HP",
+			"Address": "Rukum",
+			"VDC/Disctrict": "Syalakhadi (Rukum)",
+			"Remarks": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [82.47916667,
+			28.76944444]
+		}
+	}]
+}

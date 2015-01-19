@@ -1,0 +1,265 @@
+body,html
+{
+    height:100%;
+    width: 100%;
+    font-family: 'Ubuntu', sans-serif !important;
+}
+
+.leaflet-container{
+    font: 12px/1.5 'Ubuntu',sans-serif;
+}
+
+#map{
+    height:100%;
+    width: 100%;
+}
+.leaflet-popup-content{
+    width: 200px;
+}
+
+.leaflet-left .leaflet-control-scale {
+    margin-left: 85px;
+}
+
+.leaflet-control-layers-toggle {
+    background-image: url(../img/layer.png);
+    background-size: 50px 50px;
+    width: 55px;
+    height: 55px;
+}
+
+/**zoom controls**/
+div.leaflet-control-zoom{
+    top:5px;
+    margin-top:0px;
+}
+div.leaflet-control-search{
+    top:5px;
+}
+
+#zoom{
+    padding: 3px;
+    background-color: #fff;
+    border-radius: 4px;
+}
+#zoom:hover{
+    cursor: pointer;
+    background-color: #f4f4f4;
+}
+#zoom>img{
+    width: 20px;
+    height: 20px;
+    outline: rgba(230,230,230,1) solid thin;
+}
+/****/
+
+.marker-cluster {
+    background-color: #FFD700;
+}
+
+.table-container
+{
+    position: absolute;
+    bottom: 0px;
+    right: 10px;
+    background-color: rgba(255,255,255,0.8);
+    box-shadow: 0 0 6px rgba(0,0,0,0.6);
+    border: #666 thin solid;
+    padding: 2px 6px 6px;
+    font-family: "Verdana";
+    line-height: 1.1;
+}
+
+.table .title
+{
+    font-family: "Helvetica";
+    font-style: italic;
+    padding-bottom: 4px;
+}
+
+.table-content
+{
+    background-color: #fff;
+    max-height: 300px;
+    overflow: auto;
+    outline: #ccc thin solid;
+    width: 340px;
+}
+
+.table-row
+{
+    font-size: 12pt;
+    /*outline: #FF0000 thin solid;*/
+    border-bottom: #eeeeee thin solid;
+    /*color: #FF0000;*/
+    display: flex;
+    flex-flow: row wrap;
+    padding: 4px 2px 4px 2px;
+}
+
+.table-row>*
+{
+    display: inline-block;
+    font-weight: 700;
+    font-size: 10pt;
+    width: 300px;
+    line-height: 1.4;
+}
+
+.leaflet-popup-content .table-row>*
+{
+    /*width: 340px;*/
+    width: 340px;
+    /*min-width: 260px;*/
+    /*max-width: 340px;*/
+}
+
+.table-row>*:first-child
+{
+    /*color: #FF0000;*/
+    color: #3366aa;
+}
+
+.table-row>*>*
+{
+    display: inline-block;
+    color: #333;
+    /*max-width: 150px;*/
+    /*min-width: 140px;*/
+    /*max-width: 220px;*/
+    width: 220px;
+    vertical-align: text-top;
+    float: right;
+    /*text-align: right;*/
+    margin-left: 4px;
+}
+
+/*.table-row>*>*:first-child:before
+{
+    content: ": ";
+}*/
+
+.not-available{
+    font-style: italic;
+    font-weight: 100;
+    color: #aaaaaa;
+}
+
+.wayAuthors>*:first-child,.nodeAuthors>*:first-child,.wayAuthor>*:first-child,.nodeAuthor>*:first-child
+{
+    font-weight: 700;
+    color: #900;
+}
+
+.other_tags,.osm_id,.osm_way_id,.nodeAuth_2,.wayAutho_2
+{
+    display: none;
+}
+
+.leaflet-popup-content
+{
+    margin: 10px;
+}
+
+.leaflet-container a.leaflet-popup-close-button
+{
+    top: -8px;
+    right: -8px;
+    border-radius: 5px;
+    background-color: #4B0082;
+    border: #FF0000 thin solid;
+    padding: 0;
+}
+
+.leaflet-div-icon
+{
+    background-color: transparent;
+    border: 0;
+    outline: 0;
+}
+
+.leaflet-div-icon>img
+{
+    width: 25px;
+}
+
+.leaflet-control-zoom
+{
+    /*border: #666 thick solid;*/
+    /*border-radius: 0;*/
+    background-color: #ffffff;
+}
+
+.leaflet-control-zoom a
+{
+    border-radius: 0;
+    background-color: transparent;
+}
+
+.leaflet-control-zoom a:hover
+{
+    border-radius: 0;
+    background-color: #fff;
+    text-shadow: 0 0 1px rgba(0,0,0,0.6);
+}
+
+.msg
+{
+    position: absolute;
+    top: 10px;
+    left: 35%;
+    width: 30%;
+    text-align: center;
+    font-family: "Helvetica";
+    font-size: 12pt;
+    background-color: rgba(255,255,255,0.8);
+    border: #666 thin solid;
+    box-shadow: 0 0 6px rgba(0,0,0,0.6);
+}
+
+span.legend-icon{
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    background-size: 20px;
+}
+
+div.leaflet-control-layers-overlays label{
+    border-bottom: #eeeeee thin solid;
+}
+
+div.leaflet-control-layers-separator{
+    //border-top: 2px solid #dddddd;
+    //border-bottom: 2px solid #dddddd;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.2) inset;
+    //outline: #dddddd 2px solid;
+    //outline-offset: -2px;
+    height: 10px;
+}
+
+.leaflet-popup-content{
+    width: auto !important;
+}
+
+.leaflet-control-search .search-button{
+    background-color: #ffffff;
+}
+
+@media all and (max-width:960px)
+{
+    .table-row>*
+    {
+        width: 184px;
+    }
+
+    .msg
+    {
+        display: none;
+    }
+}
+
+.hidden
+{
+    display: none;
+}
+
